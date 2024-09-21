@@ -5,4 +5,4 @@ This is my Engineering project repository. This repo includes PNG Datasets, CSV 
 
 CSV Datasets include Absorbance, Reflectance and Intensity values of each measurement. These datasets created by using NIR spectrometer and its Wavelength range is 900-1700nm.
 
-PNG Datasets created by using absorbance and reflectance CSV datasets.
+PNG Datasets were created by using absorbance and reflectance CSV datasets.
